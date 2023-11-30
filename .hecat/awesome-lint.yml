@@ -6,3 +6,4 @@ steps:
       items_in_delegate_to_fatal: False
       licenses_files:
         - licenses.yml
+      platforms_required_fields: []

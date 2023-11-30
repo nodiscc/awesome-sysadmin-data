@@ -9,3 +9,4 @@ steps:
       last_updated_warn_days: 186
       licenses_files:
         - licenses.yml
+      platforms_required_fields: []
