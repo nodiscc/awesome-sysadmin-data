@@ -32,7 +32,7 @@ awesome_lint: install
 export_markdown: install
 	rm -rf awesome-sysadmin && git clone https://github.com/awesome-foss/awesome-sysadmin
 	source .venv/bin/activate && \
-	hecat --config .hecat/export.yml
+	hecat --config .hecat/export-markdown.yml
 	cd awesome-sysadmin && git diff --color=always
 
 .PHONY: export_html # render HTML export from YAML data (https://awesome-sysadmin.net/)
