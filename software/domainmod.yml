@@ -1,0 +1,10 @@
+name: DomainMOD
+website_url: https://domainmod.org
+description: Manage your domains and other internet assets in a central location.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - DNS - Control Panels & Domain Management
+source_code_url: https://github.com/domainmod/domainmod

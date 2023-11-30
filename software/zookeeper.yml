@@ -1,0 +1,11 @@
+name: ZooKeeper
+website_url: https://zookeeper.apache.org/
+description: ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - C++
+tags:
+  - Service Discovery
+source_code_url: https://github.com/apache/zookeeper

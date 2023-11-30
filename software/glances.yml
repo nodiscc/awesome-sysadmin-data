@@ -1,0 +1,10 @@
+name: glances
+website_url: https://nicolargo.github.io/glances/
+description: Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Monitoring
+source_code_url: https://github.com/nicolargo/glances

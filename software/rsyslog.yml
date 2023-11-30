@@ -1,0 +1,10 @@
+name: rsyslog
+website_url: https://www.rsyslog.com/
+description: Rocket-fast system for log processing.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Log Management
+source_code_url: https://github.com/rsyslog/rsyslog

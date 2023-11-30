@@ -1,0 +1,10 @@
+name: Capistrano
+website_url: https://capistranorb.com/
+description: Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/capistrano/capistrano

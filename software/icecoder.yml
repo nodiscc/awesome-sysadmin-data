@@ -1,0 +1,11 @@
+name: ICEcoder
+website_url: https://icecoder.net/
+description: Code editor awesomeness, built with common web languages.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Editors
+source_code_url: https://github.com/icecoder/ICEcoder
+demo_url: http://demo.icecoder.net

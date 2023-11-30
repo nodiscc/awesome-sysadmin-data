@@ -1,0 +1,10 @@
+name: Apache Maven
+website_url: https://maven.apache.org/
+description: Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Automation
+source_code_url: https://github.com/apache/maven

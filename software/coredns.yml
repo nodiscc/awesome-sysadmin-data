@@ -1,0 +1,10 @@
+name: CoreDNS
+website_url: https://coredns.io/
+description: Flexible DNS server.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - DNS - Servers
+source_code_url: https://github.com/coredns/coredns

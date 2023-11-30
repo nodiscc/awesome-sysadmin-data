@@ -1,0 +1,10 @@
+name: Knot
+website_url: https://www.knot-dns.cz/
+description: High performance authoritative-only DNS server.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - DNS - Servers
+source_code_url: https://gitlab.nic.cz/knot/knot-dns

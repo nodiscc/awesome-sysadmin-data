@@ -1,0 +1,11 @@
+name: RackTables
+website_url: https://racktables.org/
+description: Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - IT Asset Management
+source_code_url: https://github.com/RackTables/racktables
+demo_url: https://www.racktables.org/demo.php

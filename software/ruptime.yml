@@ -1,0 +1,10 @@
+name: ruptime
+website_url: https://github.com/alexmyczko/ruptime
+description: Classic system status server.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Shell
+tags:
+  - Monitoring
+source_code_url: https://github.com/alexmyczko/ruptime

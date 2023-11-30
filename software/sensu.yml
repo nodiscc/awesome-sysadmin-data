@@ -1,0 +1,10 @@
+name: Sensu
+website_url: https://sensu.io/
+description: Monitoring tool for ephemeral infrastructure and distributed applications.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Monitoring
+source_code_url: https://github.com/sensu/sensu-go

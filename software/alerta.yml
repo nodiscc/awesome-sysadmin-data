@@ -1,0 +1,10 @@
+name: Alerta
+website_url: https://alerta.io/
+description: Distributed, scalable and flexible monitoring system.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Monitoring
+source_code_url: https://github.com/alerta/alerta

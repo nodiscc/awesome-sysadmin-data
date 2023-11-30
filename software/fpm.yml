@@ -1,0 +1,10 @@
+name: fpm
+website_url: https://fpm.readthedocs.io/en/latest/
+description: Versatile multi format package creator.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Packaging
+source_code_url: https://github.com/jordansissel/fpm

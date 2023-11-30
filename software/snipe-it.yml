@@ -1,0 +1,10 @@
+name: Snipe IT
+website_url: https://snipeitapp.com/
+description: Asset & license management software.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - IT Asset Management
+source_code_url: https://github.com/snipe/snipe-it

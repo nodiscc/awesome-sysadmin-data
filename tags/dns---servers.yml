@@ -1,0 +1,7 @@
+name: DNS - Servers
+description: '[DNS](https://en.wikipedia.org/wiki/Name_server) servers.'
+external_links:
+  - title: awesome-selfhosted/DNS
+    url: https://github.com/awesome-selfhosted/awesome-selfhosted#dns
+related_tags:
+  - DNS - Control Panels & Domain Management

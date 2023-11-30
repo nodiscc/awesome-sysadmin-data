@@ -1,0 +1,10 @@
+name: CFEngine
+website_url: https://cfengine.com/
+description: Configuration management system for automated configuration and maintenance of large-scale computer systems.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Configuration Management
+source_code_url: https://github.com/cfengine/core

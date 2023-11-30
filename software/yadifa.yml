@@ -1,0 +1,10 @@
+name: Yadifa
+website_url: https://www.yadifa.eu/
+description: Clean, small, light and RFC-compliant name server implementation developed from scratch by .eu.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C
+tags:
+  - DNS - Servers
+source_code_url: https://github.com/yadifa/yadifa

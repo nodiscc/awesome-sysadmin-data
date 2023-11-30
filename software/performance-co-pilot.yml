@@ -1,0 +1,11 @@
+name: Performance Co-Pilot
+website_url: http://pcp.io
+description: Lightweight, distributed system performance and analysis framework.
+licenses:
+  - LGPL-2.1
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Monitoring
+source_code_url: https://github.com/performancecopilot/pcp

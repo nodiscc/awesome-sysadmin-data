@@ -1,0 +1,10 @@
+name: GoAccess
+website_url: https://goaccess.io/
+description: Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser.
+licenses:
+  - MIT
+platforms:
+  - C
+tags:
+  - Log Management
+source_code_url: https://github.com/allinurl/goaccess

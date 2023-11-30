@@ -1,0 +1,10 @@
+name: Amanda
+website_url: https://www.amanda.org/
+description: Backup and archive many computers on a network to disk, tape changer/drive or cloud storage.
+licenses:
+  - MIT
+platforms:
+  - C
+tags:
+  - Backups
+source_code_url: https://github.com/zmanda/amanda

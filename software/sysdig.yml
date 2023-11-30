@@ -1,0 +1,12 @@
+name: Sysdig
+website_url: https://www.sysdig.com/
+description: Capture system state and activity from a running Linux instance, then save, filter and analyze.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Lua
+  - C
+tags:
+  - Troubleshooting
+source_code_url: https://github.com/draios/sysdig

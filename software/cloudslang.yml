@@ -1,0 +1,10 @@
+name: CloudSlang
+website_url: https://www.cloudslang.io/
+description: Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/CloudSlang/score

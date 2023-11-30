@@ -1,0 +1,11 @@
+name: Concourse
+website_url: https://concourse-ci.org/
+description: Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/concourse/concourse
+demo_url: https://ci.concourse-ci.org/

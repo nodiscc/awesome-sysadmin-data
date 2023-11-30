@@ -1,0 +1,10 @@
+name: Fluentd
+website_url: https://www.fluentd.org/
+description: Data collector for unified logging layer.
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Log Management
+source_code_url: https://github.com/fluent/fluentd

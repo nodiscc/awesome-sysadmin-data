@@ -1,0 +1,10 @@
+name: Strider
+website_url: https://strider-cd.github.io/
+description: Open Source Continuous Deployment / Continuous Integration platform.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/Strider-CD/strider

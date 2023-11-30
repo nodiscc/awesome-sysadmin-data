@@ -1,0 +1,10 @@
+name: Kroki
+website_url: https://kroki.io
+description: API for generating diagrams from textual descriptions.
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - Diagramming
+source_code_url: https://github.com/yuzutech/kroki

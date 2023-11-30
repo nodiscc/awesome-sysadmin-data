@@ -1,0 +1,10 @@
+name: Indieauth
+website_url: https://indieauth.com/
+description: Sign in with your domain name (using the rel-me-auth protocol).
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/aaronpk/IndieAuth.com

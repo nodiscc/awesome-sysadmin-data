@@ -1,0 +1,10 @@
+name: Flume
+website_url: https://flume.apache.org/
+description: Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Log Management
+source_code_url: https://github.com/apache/flume

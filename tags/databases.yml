@@ -1,0 +1,8 @@
+name: Databases
+description: Database servers.
+external_links:
+  - title: awesome-selfhosted/Database Management
+    url: https://github.com/awesome-selfhosted/awesome-selfhosted#database-management
+redirect:
+  - title: dbdb.io - Database of Databases
+    url: https://dbdb.io/

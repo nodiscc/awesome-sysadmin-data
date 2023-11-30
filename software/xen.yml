@@ -1,0 +1,10 @@
+name: Xen
+website_url: https://www.xenproject.org/
+description: Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Virtualization
+source_code_url: https://xenbits.xenproject.org/gitweb/?p=xen.git;a=tree;hb=HEAD

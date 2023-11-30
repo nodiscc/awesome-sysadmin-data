@@ -1,0 +1,10 @@
+name: LXC
+website_url: https://linuxcontainers.org/lxc/
+description: Userspace interface for the Linux kernel containment features.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Software Containers
+source_code_url: https://github.com/lxc/lxc

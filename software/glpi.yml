@@ -1,0 +1,10 @@
+name: GLPI
+website_url: https://www.glpi-project.org/
+description: Information Resource-Manager with an additional Administration Interface.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - IT Asset Management
+source_code_url: https://github.com/glpi-project/glpi

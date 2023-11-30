@@ -1,0 +1,11 @@
+name: VirtualBox
+website_url: https://www.virtualbox.org/
+description: Virtualization product from Oracle Corporation.
+licenses:
+  - GPL-3.0
+  - CDDL-1.0
+platforms:
+  - C++
+tags:
+  - Virtualization
+source_code_url: https://www.virtualbox.org/browser/vbox

@@ -1,0 +1,5 @@
+name: Remote Desktop Clients
+description: '[Remote Desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) client software.'
+external_links:
+  - title: awesome-selfhosted/Remote Access
+    url: https://github.com/awesome-selfhosted/awesome-selfhosted#remote-access

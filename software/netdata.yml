@@ -1,0 +1,10 @@
+name: Netdata
+website_url: https://www.netdata.cloud/
+description: Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Monitoring
+source_code_url: https://github.com/netdata/netdata

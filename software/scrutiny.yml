@@ -1,0 +1,10 @@
+name: Scrutiny
+website_url: https://github.com/AnalogJ/scrutiny
+description: Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Monitoring
+source_code_url: https://github.com/AnalogJ/scrutiny

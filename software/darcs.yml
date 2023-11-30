@@ -1,0 +1,10 @@
+name: Darcs
+website_url: https://darcs.net/
+description: 'Cross-platform version control system, like git, mercurial or svn but with a very different approach: focus on changes rather than snapshots.'
+licenses:
+  - GPL-2.0
+platforms:
+  - Haskell
+tags:
+  - Version control
+source_code_url: https://darcs.net/releases/

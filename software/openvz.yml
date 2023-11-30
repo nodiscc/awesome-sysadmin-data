@@ -1,0 +1,10 @@
+name: OpenVZ
+website_url: https://openvz.org
+description: Container-based virtualization for Linux.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Software Containers
+source_code_url: https://src.openvz.org/projects/OVZ

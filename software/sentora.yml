@@ -1,0 +1,10 @@
+name: Sentora
+website_url: https://sentora.org/
+description: Open-Source Web hosting control panel for Linux, BSD (fork of ZPanel).
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Control Panels
+source_code_url: https://github.com/sentora/sentora-core

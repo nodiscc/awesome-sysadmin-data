@@ -1,0 +1,10 @@
+name: Duplicity
+website_url: https://duplicity.gitlab.io/
+description: Encrypted bandwidth-efficient backup using the rsync algorithm.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - Backups
+source_code_url: https://gitlab.com/duplicity/duplicity

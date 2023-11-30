@@ -1,0 +1,11 @@
+name: RabbitMQ
+website_url: https://www.rabbitmq.com/
+description: Robust, fully featured, cross distro queuing system.
+licenses:
+  - MPL-2.0
+  - Apache-2.0
+platforms:
+  - Erlang
+tags:
+  - Queuing
+source_code_url: https://github.com/rabbitmq/rabbitmq-server

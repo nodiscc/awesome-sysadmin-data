@@ -1,0 +1,11 @@
+name: OCS Inventory NG
+website_url: https://ocsinventory-ng.org/
+description: Asset management and deployment solution for all devices in your IT Department.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+  - Perl
+tags:
+  - IT Asset Management
+source_code_url: https://github.com/OCSInventory-NG

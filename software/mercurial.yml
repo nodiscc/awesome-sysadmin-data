@@ -1,0 +1,12 @@
+name: Mercurial
+website_url: https://www.mercurial-scm.org/
+description: Distributed source control management tool.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+  - C
+  - Rust
+tags:
+  - Version control
+source_code_url: https://repo.mercurial-scm.org/hg/file/tip

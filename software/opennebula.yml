@@ -1,0 +1,10 @@
+name: OpenNebula
+website_url: https://opennebula.org/
+description: Build and manage enterprise clouds for virtualized services, containerized applications and serverless computing.
+licenses:
+  - Apache-2.0
+platforms:
+  - C++
+tags:
+  - Virtualization
+source_code_url: https://github.com/OpenNebula/one

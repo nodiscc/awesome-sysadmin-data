@@ -1,0 +1,10 @@
+name: Authentik
+website_url: https://goauthentik.io/
+description: Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius).
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Identity Management - Single Sign-On (SSO)
+source_code_url: https://github.com/goauthentik/authentik

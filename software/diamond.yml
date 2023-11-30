@@ -1,0 +1,10 @@
+name: Diamond
+website_url: https://github.com/python-diamond/Diamond
+description: Daemon that collects system metrics and publishes them to Graphite (and others).
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/python-diamond/Diamond

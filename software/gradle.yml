@@ -1,0 +1,11 @@
+name: Gradle
+website_url: https://gradle.org/
+description: Another build automation system.
+licenses:
+  - Apache-2.0
+platforms:
+  - Groovy
+  - Java
+tags:
+  - Automation
+source_code_url: https://github.com/gradle/gradle

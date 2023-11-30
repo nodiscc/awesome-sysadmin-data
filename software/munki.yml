@@ -1,0 +1,10 @@
+name: munki
+website_url: https://www.munki.org/munki/
+description: Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/munki/munki

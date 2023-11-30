@@ -1,0 +1,10 @@
+name: OpenAFS
+website_url: https://www.openafs.org/
+description: Distributed network file system with read-only replicas and multi-OS support.
+licenses:
+  - IPL-1.0
+platforms:
+  - C
+tags:
+  - Distributed Filesystems
+source_code_url: https://git.openafs.org/?p=openafs.git;a=summary

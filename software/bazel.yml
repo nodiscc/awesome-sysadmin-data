@@ -1,0 +1,10 @@
+name: Bazel
+website_url: https://www.bazel.io/
+description: A fast, scalable, multi-language and extensible build system. Used by Google.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Automation
+source_code_url: https://github.com/bazelbuild/bazel/

@@ -1,0 +1,10 @@
+name: Nebula
+website_url: https://github.com/slackhq/nebula
+description: A scalable p2p VPN with a focus on performance, simplicity and security.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - VPN
+source_code_url: https://github.com/slackhq/nebula

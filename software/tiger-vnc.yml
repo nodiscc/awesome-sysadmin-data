@@ -1,0 +1,10 @@
+name: Tiger VNC
+website_url: https://tigervnc.org/
+description: High-performance, multi-platform VNC client and server.
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - Remote Desktop Clients
+source_code_url: https://github.com/TigerVNC/tigervnc

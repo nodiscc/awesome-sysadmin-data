@@ -1,0 +1,11 @@
+name: eZ Server Monitor
+website_url: https://www.ezservermonitor.com
+description: A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Shell
+tags:
+  - Monitoring
+source_code_url: https://github.com/shevabam/ezservermonitor-web

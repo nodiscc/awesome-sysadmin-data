@@ -1,0 +1,11 @@
+name: Adagios
+website_url: http://adagios.org/
+description: Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Monitoring
+source_code_url: https://github.com/opinkerfi/adagios

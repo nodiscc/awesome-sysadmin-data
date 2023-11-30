@@ -1,0 +1,5 @@
+name: Status Pages
+description: '[Uptime](https://en.wikipedia.org/wiki/Uptime) is a measure of system reliability, expressed as the percentage of time a machine, typically a computer, has been working and available.'
+redirect:
+  - title: awesome-selfhosted/Status / Uptime Pages
+    url: https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages

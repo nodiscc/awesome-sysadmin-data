@@ -1,0 +1,10 @@
+name: Minio
+website_url: https://min.io/
+description: High-performance, S3 compatible object store built for large scale AI/ML, data lake and database workloads.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/minio/minio

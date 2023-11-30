@@ -1,0 +1,10 @@
+name: werf
+website_url: https://werf.io/
+description: Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/werf/werf

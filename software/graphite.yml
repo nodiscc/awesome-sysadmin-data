@@ -1,0 +1,10 @@
+name: Graphite
+website_url: https://graphite.readthedocs.org/en/latest/
+description: Scalable graphing server.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/graphite-project/graphite-web

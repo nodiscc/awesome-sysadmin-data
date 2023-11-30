@@ -1,0 +1,10 @@
+name: Zabbix
+website_url: https://www.zabbix.com/
+description: Enterprise-class software for monitoring of networks and applications.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Monitoring
+source_code_url: https://git.zabbix.com/projects/ZBX/repos/zabbix/browse

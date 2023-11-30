@@ -1,0 +1,10 @@
+name: ImapSync
+website_url: http://imapsync.lamiral.info/
+description: Simple IMAP migration tool for copying mailboxes to other servers.
+licenses:
+  - NLPL
+platforms:
+  - Perl
+tags:
+  - Mail Clients
+source_code_url: https://github.com/imapsync/imapsync

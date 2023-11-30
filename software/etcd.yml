@@ -1,0 +1,10 @@
+name: etcd
+website_url: https://etcd.io/
+description: Distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Service Discovery
+source_code_url: https://github.com/coreos/etcd

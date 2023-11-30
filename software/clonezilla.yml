@@ -1,0 +1,12 @@
+name: Clonezilla
+website_url: https://clonezilla.org/
+description: Partition and disk imaging/cloning program.
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+  - Shell
+  - Other
+tags:
+  - Miscellaneous
+source_code_url: https://clonezilla.org/downloads/src/

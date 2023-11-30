@@ -1,0 +1,10 @@
+name: Dockovpn
+website_url: https://dockovpn.io
+description: Out-of-the-box stateless dockerized OpenVPN server which starts in less than 2 seconds.
+licenses:
+  - GPL-2.0
+platforms:
+  - Docker
+tags:
+  - VPN
+source_code_url: https://github.com/dockovpn/dockovpn

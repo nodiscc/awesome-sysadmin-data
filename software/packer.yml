@@ -1,0 +1,10 @@
+name: Packer
+website_url: https://www.packer.io/
+description: A tool for creating identical machine images for multiple platforms from a single source configuration.
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+tags:
+  - Virtualization
+source_code_url: https://github.com/hashicorp/packer

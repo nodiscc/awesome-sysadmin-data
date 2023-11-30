@@ -1,0 +1,10 @@
+name: Docker Swarm
+website_url: https://docs.docker.com/engine/swarm/
+description: Manage cluster of Docker Engines.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Software Containers
+source_code_url: https://github.com/moby/swarmkit

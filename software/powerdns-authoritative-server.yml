@@ -1,0 +1,10 @@
+name: PowerDNS Authoritative Server
+website_url: https://doc.powerdns.com/authoritative/
+description: Versatile nameserver which supports a large number of backends.
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - DNS - Servers
+source_code_url: https://github.com/PowerDNS/pdns

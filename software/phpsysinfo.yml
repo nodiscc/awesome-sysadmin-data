@@ -1,0 +1,10 @@
+name: PhpSysInfo
+website_url: https://phpsysinfo.github.io/phpsysinfo/
+description: A customizable PHP script that displays information about your system nicely.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Monitoring
+source_code_url: https://github.com/phpsysinfo/phpsysinfo

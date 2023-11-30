@@ -1,0 +1,7 @@
+name: DNS - Control Panels & Domain Management
+description: DNS server control panels, web interfaces and domain management tools.
+external_links:
+  - title: awesome-selfhosted/DNS
+    url: https://github.com/awesome-selfhosted/awesome-selfhosted#dns
+related_tags:
+  - DNS - Servers

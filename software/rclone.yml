@@ -1,0 +1,10 @@
+name: rclone
+website_url: https://rclone.org/
+description: Command-line program to sync files and directories to and from different cloud storage providers..
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Backups
+source_code_url: https://github.com/rclone/rclone

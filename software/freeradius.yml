@@ -1,0 +1,10 @@
+name: FreeRADIUS
+website_url: https://freeradius.org/
+description: Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Identity Management - LDAP
+source_code_url: https://github.com/FreeRADIUS/freeradius-server

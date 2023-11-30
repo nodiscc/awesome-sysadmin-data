@@ -1,0 +1,10 @@
+name: mtr
+website_url: https://www.bitwizard.nl/mtr/
+description: Network utility that combines traceroute and ping.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Troubleshooting
+source_code_url: https://github.com/traviscross/mtr

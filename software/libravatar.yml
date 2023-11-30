@@ -1,0 +1,10 @@
+name: Libravatar
+website_url: https://www.libravatar.org/
+description: Libravatar is a service which delivers your avatar (profile picture) to other websites.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://git.linux-kernel.at/oliver/ivatar/

@@ -1,0 +1,10 @@
+name: Icinga
+website_url: https://www.icinga.com/
+description: Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring.
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - Monitoring
+source_code_url: https://github.com/Icinga/icinga2

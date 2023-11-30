@@ -1,0 +1,11 @@
+name: tcollector
+website_url: http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html
+description: Gathers data from local collectors and pushes the data to OpenTSDB.
+licenses:
+  - LGPL-3.0
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/OpenTSDB/tcollector/

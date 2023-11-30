@@ -1,0 +1,10 @@
+name: EdMon
+website_url: https://github.com/Edraens/EdMon
+description: A command-line monitoring application helping you to check that your hosts and services are available, with notifications support.
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - Monitoring
+source_code_url: https://github.com/Edraens/EdMon

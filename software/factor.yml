@@ -1,0 +1,10 @@
+name: Factor
+website_url: https://www.factor.io/
+description: Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/factor-io/factor

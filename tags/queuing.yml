@@ -1,0 +1,2 @@
+name: Queuing
+description: '[Message queues](https://en.wikipedia.org/wiki/Message_queue) and [message broker](https://en.wikipedia.org/wiki/Message_broker) software, typically used for inter-process communication (IPC), or for inter-thread communication within the same process.'

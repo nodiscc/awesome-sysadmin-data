@@ -1,0 +1,10 @@
+name: Beats
+website_url: https://www.elastic.co/beats/
+description: Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/elastic/beats

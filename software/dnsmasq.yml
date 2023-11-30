@@ -1,0 +1,10 @@
+name: dnsmasq
+website_url: https://www.thekelleys.org.uk/dnsmasq/doc.html
+description: 'Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot.'
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - DNS - Servers
+source_code_url: https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree

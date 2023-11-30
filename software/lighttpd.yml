@@ -1,0 +1,10 @@
+name: Lighttpd
+website_url: https://www.lighttpd.net/
+description: Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C
+tags:
+  - Web
+source_code_url: https://git.lighttpd.net/lighttpd/lighttpd1.4

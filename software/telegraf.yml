@@ -1,0 +1,10 @@
+name: Telegraf
+website_url: https://github.com/influxdata/telegraf
+description: Plugin-driven server agent for collecting, processing, aggregating, and writing metrics.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/influxdata/telegraf

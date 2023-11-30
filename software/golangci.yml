@@ -1,0 +1,10 @@
+name: GolangCI
+website_url: https://golangci.com/
+description: Open Source automated code review service for Go integrated with GitHub pull requests.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/golangci/golangci

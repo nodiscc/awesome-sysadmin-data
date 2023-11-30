@@ -1,0 +1,12 @@
+name: dashdot
+website_url: https://github.com/MauriceNino/dashdot
+description: A simple, modern server dashboard for smaller private servers.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Monitoring
+source_code_url: https://github.com/MauriceNino/dashdot
+demo_url: https://dash.mauz.dev/

@@ -1,0 +1,10 @@
+name: iTop
+website_url: https://www.combodo.com/itop-193
+description: Complete ITIL web based service management tool.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Configuration Management Database
+source_code_url: https://sourceforge.net/projects/itop/files/

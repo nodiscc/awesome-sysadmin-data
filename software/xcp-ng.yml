@@ -1,0 +1,10 @@
+name: XCP-ng
+website_url: https://www.xcp-ng.org/
+description: Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer).
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Virtualization
+source_code_url: https://github.com/xcp-ng

@@ -1,0 +1,10 @@
+name: Firezone
+website_url: https://www.firez.one/
+description: WireGuard based VPN Server and Firewall.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - VPN
+source_code_url: https://github.com/firezone/firezone

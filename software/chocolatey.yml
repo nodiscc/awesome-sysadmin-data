@@ -1,0 +1,11 @@
+name: Chocolatey
+website_url: https://chocolatey.org/
+description: The package manager for Windows.
+licenses:
+  - Apache-2.0
+platforms:
+  - C#
+  - PowerShell
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/chocolatey/choco

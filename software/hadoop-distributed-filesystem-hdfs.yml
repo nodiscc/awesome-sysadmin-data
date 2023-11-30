@@ -1,0 +1,10 @@
+name: Hadoop Distributed Filesystem (HDFS)
+website_url: https://hadoop.apache.org/
+description: Distributed file system that provides high-throughput access to application data.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/apache/hadoop

@@ -1,0 +1,11 @@
+name: OpenWISP
+website_url: https://openwisp.org/
+description: Open Source Network Management System for OpenWRT based routers and access points.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Network Configuration Management
+source_code_url: https://github.com/openwisp
+demo_url: https://openwisp.org/demo.html

@@ -1,0 +1,10 @@
+name: cadvisor
+website_url: https://github.com/google/cadvisor
+description: Analyzes resource usage and performance characteristics of running containers.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Monitoring
+source_code_url: https://github.com/google/cadvisor

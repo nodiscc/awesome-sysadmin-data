@@ -1,0 +1,10 @@
+name: Docker Compose
+website_url: https://docs.docker.com/compose/
+description: Define and run multi-container Docker applications.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Software Containers
+source_code_url: https://github.com/docker/compose

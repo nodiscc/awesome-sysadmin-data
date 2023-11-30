@@ -1,0 +1,11 @@
+name: CloudStack
+website_url: https://cloudstack.apache.org/
+description: Cloud computing software for creating, managing, and deploying infrastructure cloud services.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Python
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/apache/cloudstack

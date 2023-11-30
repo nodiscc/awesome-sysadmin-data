@@ -1,0 +1,10 @@
+name: Riemann
+website_url: https://riemann.io/
+description: Flexible and fast events processor allowing complex events/metrics analysis.
+licenses:
+  - EPL-1.0
+platforms:
+  - Java
+tags:
+  - Monitoring
+source_code_url: https://github.com/riemann/riemann

@@ -1,0 +1,10 @@
+name: phpList
+website_url: https://www.phplist.org/
+description: Newsletter and email marketing software.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/phpList/phplist3

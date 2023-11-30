@@ -1,0 +1,10 @@
+name: Burp
+website_url: https://burp.grke.org/
+description: Network backup and restore program.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - Backups
+source_code_url: https://github.com/grke/burp

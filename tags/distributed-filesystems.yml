@@ -1,0 +1,5 @@
+name: Distributed Filesystems
+description: Network distributed filesystems.
+external_links:
+  - title: awesome-selfhosted/File Transfer - Object Storage & File Servers
+    url: https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---object-storage--file-servers

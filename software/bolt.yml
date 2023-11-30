@@ -1,0 +1,10 @@
+name: Bolt
+website_url: https://www.puppet.com/community/open-source/bolt
+description: You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Automation
+source_code_url: https://github.com/puppetlabs/bolt

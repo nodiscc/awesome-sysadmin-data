@@ -1,0 +1,10 @@
+name: perf-tools
+website_url: https://github.com/brendangregg/perf-tools
+description: Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
+licenses:
+  - GPL-2.0
+platforms:
+  - Shell
+tags:
+  - Troubleshooting
+source_code_url: https://github.com/brendangregg/perf-tools

@@ -1,0 +1,10 @@
+name: Git
+website_url: https://git-scm.com/
+description: Distributed revision control and source code management (SCM) with an emphasis on speed.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Version control
+source_code_url: https://github.com/git/git

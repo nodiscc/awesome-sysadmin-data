@@ -1,0 +1,10 @@
+name: Hiawatha
+website_url: https://www.hiawatha-webserver.org/
+description: An advanced and secure webserver for Unix.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Web
+source_code_url: https://gitlab.com/hsleisink/hiawatha

@@ -1,0 +1,96 @@
+
+- identifier: AGPL-3.0
+  name: GNU Affero General Public License 3.0
+  url: https://spdx.org/licenses/AGPL-3.0.html
+
+- identifier: Apache-2.0
+  name: Apache, Version 2.0
+  url: https://spdx.org/licenses/Apache-2.0.html
+
+- identifier: BSD-2-Clause
+  name: BSD 2-clause "Simplified"
+  url: https://spdx.org/licenses/BSD-2-Clause.html
+
+- identifier: BSD-3-Clause
+  name: BSD 3-Clause "New" or "Revised"
+  url: https://spdx.org/licenses/BSD-3-Clause.html
+
+- identifier: BUSL-1.1
+  name: Business Source License 1.1
+  url: https://spdx.org/licenses/BUSL-1.1.html
+
+- identifier: CC0-1.0
+  name: Public Domain/Creative Common Zero 1.0
+  url: https://spdx.org/licenses/CC0-1.0.html
+
+- identifier: CDDL-1.0
+  name: Common Development and Distribution License 1.0
+  url: https://spdx.org/licenses/CDDL-1.0.html
+
+- identifier: EPL-1.0
+  name: Eclipse Public License 1.0
+  url: https://spdx.org/licenses/EPL-1.0.html
+
+- identifier: GFDL-1.2
+  name: GNU Free Documentation License 1.2
+  url: https://spdx.org/licenses/GFDL-1.2.html
+
+- identifier: GPL-1.0
+  name: GNU General Public License 1.0
+  url: https://spdx.org/licenses/GPL-1.0.html
+
+- identifier: GPL-2.0
+  name: GNU General Public License 2.0
+  url: https://spdx.org/licenses/GPL-2.0.html
+
+- identifier: GPL-3.0
+  name: GNU General Public License 3.0
+  url: https://spdx.org/licenses/GPL-3.0.html
+
+- identifier: IPL-1.0
+  name: IBM Public License v1.0
+  url: https://spdx.org/licenses/IPL-1.0.html
+
+- identifier: ISC
+  name: ISC License
+  url: https://spdx.org/licenses/ISC.html
+
+- identifier: LGPL-2.0
+  name: GNU Lesser General Public License v2
+  url: https://spdx.org/licenses/LGPL-2.0.html
+
+- identifier: LGPL-2.1
+  name: GNU Lesser General Public License v2.1
+  url: https://spdx.org/licenses/LGPL-2.1.html
+
+- identifier: LGPL-3.0
+  name: GNU Lesser General Public License v3
+  url: https://spdx.org/licenses/LGPL-3.0.html
+
+- identifier: MIT
+  name: MIT License
+  url: https://spdx.org/licenses/MIT.html
+
+- identifier: MPL-2.0
+  name: Mozilla Public License
+  url: https://spdx.org/licenses/MPL-2.0.html
+
+- identifier: NLPL
+  name: No Limit Public License
+  url: https://spdx.org/licenses/NLPL.html
+
+- identifier: OLDAP-2.8
+  name: Open LDAP Public License v2.8
+  url: https://spdx.org/licenses/OLDAP-2.8.html
+
+- identifier: QPL-1.0
+  name: Q Public License 1.0
+  url: https://spdx.org/licenses/QPL-1.0.html
+
+- identifier: Vim
+  name: Vim License
+  url: https://spdx.org/licenses/Vim.html
+
+- identifier: Zlib
+  name: zlib License
+  url: https://spdx.org/licenses/Zlib.html

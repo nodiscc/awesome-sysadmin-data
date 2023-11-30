@@ -1,0 +1,10 @@
+name: Rsnapshot
+website_url: https://rsnapshot.org/
+description: Filesystem snapshot utility based on rsync.
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - Backups
+source_code_url: https://github.com/rsnapshot/rsnapshot

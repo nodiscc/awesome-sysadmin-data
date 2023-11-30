@@ -1,0 +1,10 @@
+name: Rake
+website_url: https://ruby.github.io/rake/
+description: Build automation tool similar to Make, written in and extensible in Ruby.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Automation
+source_code_url: https://github.com/ruby/rake

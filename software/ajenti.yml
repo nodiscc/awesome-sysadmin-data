@@ -1,0 +1,11 @@
+name: Ajenti
+website_url: https://ajenti.org/
+description: Control panel for Linux and BSD.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Shell
+tags:
+  - Control Panels
+source_code_url: https://github.com/ajenti/ajenti

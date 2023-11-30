@@ -1,0 +1,12 @@
+name: pfSense CE
+website_url: https://www.pfsense.org/
+description: Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
+licenses:
+  - Apache-2.0
+platforms:
+  - Shell
+  - PHP
+  - Other
+tags:
+  - Router
+source_code_url: https://github.com/pfsense/pfsense

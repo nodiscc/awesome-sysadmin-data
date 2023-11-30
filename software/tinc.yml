@@ -1,0 +1,10 @@
+name: tinc
+website_url: https://www.tinc-vpn.org/
+description: Distributed p2p VPN.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - VPN
+source_code_url: https://www.tinc-vpn.org/git/tinc

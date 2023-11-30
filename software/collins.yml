@@ -1,0 +1,11 @@
+name: Collins
+website_url: https://tumblr.github.io/collins/
+description: At Tumblr, it's the infrastructure source of truth and knowledge.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Scala
+tags:
+  - Configuration Management Database
+source_code_url: https://github.com/tumblr/collins

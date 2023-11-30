@@ -1,0 +1,10 @@
+name: X2go
+website_url: https://wiki.x2go.org/doku.php
+description: X2Go is an open source remote desktop software for Linux that uses the NoMachine/NX technology protocol.
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - Remote Desktop Clients
+source_code_url: https://code.x2go.org/gitweb

@@ -1,0 +1,10 @@
+name: Authelia
+website_url: https://www.authelia.com/
+description: The Single Sign-On Multi-Factor portal for web apps.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Identity Management - Single Sign-On (SSO)
+source_code_url: https://github.com/authelia/authelia

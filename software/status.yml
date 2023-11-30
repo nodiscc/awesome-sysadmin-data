@@ -1,0 +1,11 @@
+name: Status
+website_url: https://github.com/dani3l0/Status
+description: Simple and lightweight system monitoring tool for small homeservers with a pleasant web interface.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Monitoring
+source_code_url: https://github.com/dani3l0/Status
+demo_url: https://status-ksk5.onrender.com/

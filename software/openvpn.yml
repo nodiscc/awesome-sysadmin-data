@@ -1,0 +1,10 @@
+name: OpenVPN
+website_url: https://community.openvpn.net
+description: Uses a custom security protocol that utilizes SSL/TLS for key exchange.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - VPN
+source_code_url: https://github.com/OpenVPN/openvpn

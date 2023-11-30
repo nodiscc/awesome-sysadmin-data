@@ -1,0 +1,10 @@
+name: JuiceFS
+website_url: https://juicefs.com/
+description: Distributed POSIX file system built on top of Redis and S3.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/juicedata/juicefs

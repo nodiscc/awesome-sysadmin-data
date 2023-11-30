@@ -1,0 +1,10 @@
+name: Wireshark
+website_url: https://www.wireshark.org/
+description: The world's foremost network protocol analyzer.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Troubleshooting
+source_code_url: https://gitlab.com/wireshark/wireshark

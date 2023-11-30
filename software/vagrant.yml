@@ -1,0 +1,10 @@
+name: Vagrant
+website_url: https://www.vagrantup.com/
+description: Tool for building complete development environments.
+licenses:
+  - BUSL-1.1
+platforms:
+  - Ruby
+tags:
+  - Virtualization
+source_code_url: https://github.com/hashicorp/vagrant

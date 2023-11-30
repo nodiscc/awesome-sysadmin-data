@@ -1,0 +1,10 @@
+name: Dar
+website_url: http://dar.linux.free.fr/
+description: Which stands for Disk ARchive, is a robust and rich featured archiving and backup software of the tar style.
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - Backups
+source_code_url: https://github.com/Edrusb/DAR

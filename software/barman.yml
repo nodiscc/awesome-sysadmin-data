@@ -1,0 +1,10 @@
+name: Barman
+website_url: https://pgbarman.org
+description: Backup and Recovery Manager for PostgreSQL.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Backups
+source_code_url: https://github.com/EnterpriseDB/barman

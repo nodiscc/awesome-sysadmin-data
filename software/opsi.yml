@@ -1,0 +1,12 @@
+name: OPSI
+website_url: https://www.opsi.org
+description: Hardware and software inventory, client management, deployment, and patching for Linux and Windows.
+licenses:
+  - GPL-3.0
+  - AGPL-3.0
+platforms:
+  - OVF
+  - Python
+tags:
+  - IT Asset Management
+source_code_url: https://github.com/opsi-org/

@@ -1,0 +1,10 @@
+name: Healthchecks
+website_url: https://healthchecks.io/docs/self_hosted/
+description: Monitoring for cron jobs, background services and scheduled tasks.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+tags:
+  - Monitoring
+source_code_url: https://github.com/healthchecks/healthchecks

@@ -1,0 +1,10 @@
+name: BounCA
+website_url: https://bounca.org/
+description: A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://gitlab.com/bounca/bounca/

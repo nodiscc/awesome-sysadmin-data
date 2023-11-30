@@ -1,0 +1,10 @@
+name: Smallstep Certificates
+website_url: https://smallstep.com/certificates/
+description: A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/smallstep/certificates

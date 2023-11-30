@@ -1,0 +1,10 @@
+name: Vlad the Deployer
+website_url: https://github.com/seattlerb/vlad
+description: Deployment automation (rake based).
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/seattlerb/vlad

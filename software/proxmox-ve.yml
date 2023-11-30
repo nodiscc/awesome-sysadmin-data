@@ -1,0 +1,11 @@
+name: Proxmox VE
+website_url: https://www.proxmox.com/proxmox-ve
+description: Virtualization management solution.
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+  - Shell
+tags:
+  - Virtualization
+source_code_url: https://git.proxmox.com/

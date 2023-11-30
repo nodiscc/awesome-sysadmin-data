@@ -1,0 +1,11 @@
+name: Mermaid
+website_url: https://mermaid-js.github.io/mermaid-live-editor/
+description: Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Diagramming
+source_code_url: https://github.com/mermaid-js/mermaid-live-editor

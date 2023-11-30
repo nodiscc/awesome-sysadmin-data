@@ -1,0 +1,10 @@
+name: i-doit
+website_url: https://www.i-doit.org/
+description: IT Documentation and CMDB.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Configuration Management Database
+source_code_url: https://www.i-doit.org/

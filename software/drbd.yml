@@ -1,0 +1,10 @@
+name: DRBD
+website_url: https://linbit.com/drbd/
+description: Distributed replicated storage system, implemented as a Linux kernel driver.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/LINBIT/drbd

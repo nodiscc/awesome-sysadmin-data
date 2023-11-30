@@ -1,0 +1,9 @@
+name: Identity Management
+description: '[Identity management](https://en.wikipedia.org/wiki/Identity_management) (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies to ensure that the right users (that are part of the ecosystem connected to or within an enterprise) have the appropriate access to technology resources.'
+redirect:
+  - title: Identity Management - LDAP
+    url: '#identity-management---ldap'
+  - title: Identity Management - Tools and web interfaces
+    url: '#identity-management---tools-and-web-interfaces'
+  - title: Identity Management - Single Sign-On SSO
+    url: '#identity-management---single-sign-on-sso'

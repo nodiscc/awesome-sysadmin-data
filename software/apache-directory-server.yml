@@ -1,0 +1,10 @@
+name: Apache Directory Server
+website_url: https://directory.apache.org/apacheds/
+description: Extensible and embeddable directory server, certified LDAPv3 compatible, with Kerberos 5 and Change Password Protocol support, triggers, stored procedures, queues and views.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Identity Management - LDAP
+source_code_url: https://github.com/apache/directory-server

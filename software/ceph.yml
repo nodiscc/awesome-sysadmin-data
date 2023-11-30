@@ -1,0 +1,10 @@
+name: Ceph
+website_url: https://ceph.com/en/
+description: Distributed object, block, and file storage platform.
+licenses:
+  - LGPL-3.0
+platforms:
+  - C++
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/ceph/ceph

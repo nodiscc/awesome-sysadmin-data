@@ -1,0 +1,10 @@
+name: Duplicati
+website_url: https://www.duplicati.com
+description: Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers.
+licenses:
+  - LGPL-2.1
+platforms:
+  - C#
+tags:
+  - Backups
+source_code_url: https://github.com/duplicati/duplicati

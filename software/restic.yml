@@ -1,0 +1,10 @@
+name: Restic
+website_url: https://restic.net/
+description: Easy, fast, verifiable, secure and efficient remote backup tool.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Go
+tags:
+  - Backups
+source_code_url: https://github.com/restic/restic

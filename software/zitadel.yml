@@ -1,0 +1,12 @@
+name: ZITADEL
+website_url: https://zitadel.com/
+description: Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/zitadel/zitadel

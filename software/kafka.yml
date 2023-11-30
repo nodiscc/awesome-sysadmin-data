@@ -1,0 +1,10 @@
+name: Kafka
+website_url: https://kafka.apache.org
+description: Extremely high performance publish/subscribe message system.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Queuing
+source_code_url: https://github.com/apache/kafka

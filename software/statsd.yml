@@ -1,0 +1,10 @@
+name: Statsd
+website_url: https://github.com/etsy/statsd/
+description: Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/etsy/statsd/

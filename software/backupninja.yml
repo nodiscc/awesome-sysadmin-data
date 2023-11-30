@@ -1,0 +1,10 @@
+name: Backupninja
+website_url: https://0xacab.org/liberate/backupninja
+description: Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities.
+licenses:
+  - GPL-2.0
+platforms:
+  - Shell
+tags:
+  - Backups
+source_code_url: https://0xacab.org/liberate/backupninja

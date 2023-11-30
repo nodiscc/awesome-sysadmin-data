@@ -1,0 +1,10 @@
+name: CapsuleCD
+website_url: https://analogj.github.io/capsulecd-slides/
+description: CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc).
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/AnalogJ/capsulecd

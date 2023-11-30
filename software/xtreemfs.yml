@@ -1,0 +1,10 @@
+name: XtreemFS
+website_url: https://www.xtreemfs.org/
+description: Distributed, replicated and fault-tolerant file system for federated IT infrastructures..
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Java
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/xtreemfs/xtreemfs

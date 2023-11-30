@@ -1,0 +1,10 @@
+name: Shield
+website_url: https://github.com/starkandwayne/shield
+description: A pluggable architecture for backup and restore of database systems.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Backups
+source_code_url: https://github.com/starkandwayne/shield

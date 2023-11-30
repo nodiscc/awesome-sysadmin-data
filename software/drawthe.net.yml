@@ -1,0 +1,10 @@
+name: DrawThe.Net
+website_url: http://go.drawthe.net/
+description: Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+tags:
+  - Diagramming
+source_code_url: https://github.com/cidrblock/drawthe.net

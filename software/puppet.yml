@@ -1,0 +1,11 @@
+name: Puppet
+website_url: https://www.puppet.com/
+description: Software configuration management tool which includes its own declarative language to describe system configuration.
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+  - C
+tags:
+  - Configuration Management
+source_code_url: https://github.com/puppetlabs/puppet

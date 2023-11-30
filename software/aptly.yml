@@ -1,0 +1,10 @@
+name: aptly
+website_url: https://www.aptly.info/
+description: Swiss army knife for Debian repository management.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Packaging
+source_code_url: https://github.com/aptly-dev/aptly

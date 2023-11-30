@@ -1,0 +1,10 @@
+name: PHPCI
+website_url: https://www.phptesting.org/
+description: Free and open source continuous integration specifically designed for PHP.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - PHP
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/block8/phpci

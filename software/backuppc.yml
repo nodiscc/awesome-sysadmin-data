@@ -1,0 +1,10 @@
+name: BackupPC
+website_url: https://backuppc.github.io/backuppc/
+description: High-performance, enterprise-grade system for backing up to a server's disk..
+licenses:
+  - GPL-3.0
+platforms:
+  - Perl
+tags:
+  - Backups
+source_code_url: https://github.com/backuppc/backuppc

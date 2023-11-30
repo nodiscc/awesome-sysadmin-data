@@ -1,0 +1,11 @@
+name: UrBackup
+website_url: https://www.urbackup.org/
+description: Client/Server Open Source Network Backup for Windows, MacOS and Linux.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+  - C++
+tags:
+  - Backups
+source_code_url: https://github.com/uroni/urbackup_backend

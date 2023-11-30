@@ -1,0 +1,11 @@
+name: GoCD
+website_url: https://www.go.cd/
+description: Continuous delivery server.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Ruby
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/gocd/gocd

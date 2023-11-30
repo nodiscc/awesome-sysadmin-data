@@ -1,0 +1,10 @@
+name: jotgit
+website_url: https://github.com/jdleesmiller/jotgit
+description: Git-backed real-time collaborative code editing.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Editors
+source_code_url: https://github.com/jdleesmiller/jotgit

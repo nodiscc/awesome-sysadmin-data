@@ -1,0 +1,10 @@
+name: Laminar
+website_url: https://laminar.ohwg.net
+description: Fast, lightweight, simple and flexible Continuous Integration.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/ohwgiles/laminar

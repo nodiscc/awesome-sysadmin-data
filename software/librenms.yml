@@ -1,0 +1,10 @@
+name: LibreNMS
+website_url: https://www.librenms.org
+description: Fully featured network monitoring system that provides a wealth of features and device support.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Monitoring
+source_code_url: https://github.com/librenms/librenms

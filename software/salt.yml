@@ -1,0 +1,10 @@
+name: Salt
+website_url: https://docs.saltproject.io/
+description: Event-driven IT automation, remote task execution, and configuration management software.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Configuration Management
+source_code_url: https://github.com/saltstack/salt

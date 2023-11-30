@@ -1,0 +1,10 @@
+name: LDAP Account Manager (LAM)
+website_url: https://www.ldap-account-manager.org/lamcms/
+description: Web frontend for managing entries (e.g. users, groups, DHCP settings) stored in an LDAP directory.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/LDAPAccountManager/lam/

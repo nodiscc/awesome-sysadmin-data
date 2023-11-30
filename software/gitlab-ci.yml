@@ -1,0 +1,10 @@
+name: GitLab CI
+website_url: https://about.gitlab.com/solutions/continuous-integration/
+description: Gitlab's built-in, full-featured CI/CD solution.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://gitlab.com/gitlab-org/gitlab-foss

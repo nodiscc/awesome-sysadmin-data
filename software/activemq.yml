@@ -1,0 +1,10 @@
+name: ActiveMQ
+website_url: https://activemq.apache.org/
+description: Java message broker.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Queuing
+source_code_url: https://github.com/apache/activemq

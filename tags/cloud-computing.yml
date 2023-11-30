@@ -1,0 +1,5 @@
+name: Cloud Computing
+description: '[Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.'
+redirect:
+  - title: Cloud Native Software Landscape
+    url: https://landscape.cncf.io/card-mode?license=open-source&grouping=category

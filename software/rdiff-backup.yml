@@ -1,0 +1,10 @@
+name: Rdiff-backup
+website_url: https://rdiff-backup.net/
+description: Reverse differential backup tool, over a network or locally.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - Backups
+source_code_url: https://github.com/rdiff-backup/rdiff-backup

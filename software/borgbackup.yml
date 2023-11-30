@@ -1,0 +1,10 @@
+name: BorgBackup
+website_url: https://www.borgbackup.org/
+description: Deduplicating archiver with compression and authenticated encryption.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+tags:
+  - Backups
+source_code_url: https://github.com/borgbackup/borg

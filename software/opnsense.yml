@@ -1,0 +1,11 @@
+name: OPNsense
+website_url: https://opnsense.org/
+description: An open source FreeBSD-based firewall and router with traffic shaping, load balancing, and virtual private network capabilities.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - C
+  - PHP
+tags:
+  - Router
+source_code_url: https://github.com/opnsense

@@ -1,0 +1,10 @@
+name: Openstack Swift
+website_url: https://docs.openstack.org/developer/swift/
+description: A highly available, distributed, eventually consistent object/blob store.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Distributed Filesystems
+source_code_url: https://opendev.org/openstack/swift

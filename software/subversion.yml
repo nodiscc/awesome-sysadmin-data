@@ -1,0 +1,10 @@
+name: Subversion
+website_url: https://subversion.apache.org/
+description: Client-server revision control system.
+licenses:
+  - Apache-2.0
+platforms:
+  - C
+tags:
+  - Version control
+source_code_url: https://svn.apache.org/repos/asf/subversion/trunk/

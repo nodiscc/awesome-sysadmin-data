@@ -1,0 +1,10 @@
+name: ZeroMQ
+website_url: https://zeromq.org/
+description: Lightweight queuing system.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Queuing
+source_code_url: https://github.com/zeromq

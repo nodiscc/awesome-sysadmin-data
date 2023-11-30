@@ -1,0 +1,10 @@
+name: Buildbot
+website_url: https://buildbot.net/
+description: Python-based toolkit for continuous integration.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/buildbot/buildbot

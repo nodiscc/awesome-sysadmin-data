@@ -1,0 +1,10 @@
+name: WireGuard
+website_url: https://www.wireguard.com/
+description: Very fast VPN based on elliptic curve and public key crypto.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - VPN
+source_code_url: https://www.wireguard.com/repositories/

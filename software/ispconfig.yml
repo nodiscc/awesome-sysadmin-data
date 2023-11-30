@@ -1,0 +1,10 @@
+name: ISPConfig
+website_url: https://www.ispconfig.org
+description: Manage Linux servers directly through your browser.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - PHP
+tags:
+  - Control Panels
+source_code_url: https://git.ispconfig.org/ispconfig/ispconfig3

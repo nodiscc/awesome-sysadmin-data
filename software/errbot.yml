@@ -1,0 +1,10 @@
+name: Errbot
+website_url: https://errbot.io/
+description: Plugin based chatbot designed to be easily deployable, extensible and maintainable.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - ChatOps
+source_code_url: https://github.com/errbotio/errbot

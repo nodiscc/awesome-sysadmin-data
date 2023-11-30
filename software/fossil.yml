@@ -1,0 +1,10 @@
+name: Fossil
+website_url: https://www.fossil-scm.org/
+description: Distributed version control with built-in wiki and bug tracking.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - C
+tags:
+  - Version control
+source_code_url: https://www.fossil-scm.org/home/dir?ci=trunk

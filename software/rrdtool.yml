@@ -1,0 +1,10 @@
+name: RRDtool
+website_url: https://oss.oetiker.ch/rrdtool/
+description: Industry standard, high performance data logging and graphing system for time series data.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/oetiker/rrdtool-1.x

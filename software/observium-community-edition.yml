@@ -1,0 +1,10 @@
+name: Observium Community Edition
+website_url: http://www.observium.org/
+description: Network monitoring and management platform that provides real-time insight into network health and performance.
+licenses:
+  - QPL-1.0
+platforms:
+  - PHP
+tags:
+  - Monitoring
+source_code_url: http://www.observium.org/

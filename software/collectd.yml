@@ -1,0 +1,10 @@
+name: Collectd
+website_url: https://collectd.org/
+description: System statistics collection daemon.
+licenses:
+  - MIT
+platforms:
+  - C
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/collectd/collectd

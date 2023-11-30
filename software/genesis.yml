@@ -1,0 +1,10 @@
+name: Genesis
+website_url: https://github.com/starkandwayne/genesis
+description: A template framework for multi-environment BOSH deployments.
+licenses:
+  - MIT
+platforms:
+  - Perl
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/starkandwayne/genesis

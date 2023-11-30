@@ -1,0 +1,10 @@
+name: TextMate
+website_url: https://macromates.com/
+description: A graphical text editor for OS X.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Editors
+source_code_url: https://github.com/textmate/textmate/

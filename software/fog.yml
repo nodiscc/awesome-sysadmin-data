@@ -1,0 +1,11 @@
+name: Fog
+website_url: https://www.fogproject.org/
+description: Cloning/imaging solution/rescue suite.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Shell
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/FOGProject/fogproject

@@ -1,0 +1,10 @@
+name: Mutt
+website_url: http://www.mutt.org/
+description: Small but very powerful text-based mail client.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Mail Clients
+source_code_url: https://gitlab.com/muttmua/mutt

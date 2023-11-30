@@ -1,0 +1,10 @@
+name: omnibus-ruby
+website_url: https://github.com/chef/omnibus
+description: Easily create full-stack installers for your project across a variety of platforms.
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Packaging
+source_code_url: https://github.com/chef/omnibus

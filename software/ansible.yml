@@ -1,0 +1,10 @@
+name: Ansible
+website_url: https://www.ansible.com/
+description: Provisioning, configuration management, and application-deployment tool.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Configuration Management
+source_code_url: https://github.com/ansible/ansible

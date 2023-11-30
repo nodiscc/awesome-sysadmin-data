@@ -1,0 +1,11 @@
+name: Kubo
+website_url: https://github.com/ipfs/kubo
+description: Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
+licenses:
+  - Apache-2.0
+  - MIT
+platforms:
+  - Go
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/ipfs/kubo

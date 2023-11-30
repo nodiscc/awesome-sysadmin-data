@@ -1,0 +1,10 @@
+name: Sylpheed
+website_url: https://sylpheed.sraoss.jp/en/
+description: Still developed predecessor to Claws Mail, lightweight mail client.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Mail Clients
+source_code_url: https://github.com/sylpheed-mail/sylpheed

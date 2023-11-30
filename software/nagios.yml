@@ -1,0 +1,10 @@
+name: Nagios
+website_url: https://www.nagios.org/
+description: Computer system, network and infrastructure monitoring software application.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Monitoring
+source_code_url: https://github.com/NagiosEnterprises/nagioscore

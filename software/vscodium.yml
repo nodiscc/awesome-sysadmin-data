@@ -1,0 +1,10 @@
+name: VSCodium
+website_url: https://vscodium.com/
+description: An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+tags:
+  - Editors
+source_code_url: https://github.com/VSCodium/vscodium

@@ -1,0 +1,10 @@
+name: PiVPN
+website_url: https://www.pivpn.io/
+description: The simplest way to setup and manage a VPN, designed for Raspberry Pi.
+licenses:
+  - MIT
+platforms:
+  - Shell
+tags:
+  - VPN
+source_code_url: https://github.com/pivpn/pivpn

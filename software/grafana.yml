@@ -1,0 +1,10 @@
+name: Grafana
+website_url: https://grafana.com/
+description: A Graphite & InfluxDB Dashboard and Graph Editor.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/grafana/grafana

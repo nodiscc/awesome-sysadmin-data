@@ -1,0 +1,10 @@
+name: Notepad++
+website_url: https://notepad-plus-plus.org/
+description: GPLv2 multi-language editor with syntax highlighting for Windows.
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - Editors
+source_code_url: https://github.com/notepad-plus-plus/notepad-plus-plus

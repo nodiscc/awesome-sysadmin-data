@@ -1,0 +1,10 @@
+name: grml
+website_url: https://grml.org
+description: Bootable Debian Live CD with powerful CLI tools.
+licenses:
+  - GPL-3.0
+platforms:
+  - Shell
+tags:
+  - Troubleshooting
+source_code_url: https://github.com/grml/

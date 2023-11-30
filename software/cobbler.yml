@@ -1,0 +1,10 @@
+name: Cobbler
+website_url: https://cobbler.github.io/
+description: Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/cobbler/cobbler

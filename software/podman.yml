@@ -1,0 +1,10 @@
+name: Podman
+website_url: https://podman.io
+description: 'Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: `alias docker=podman`.'
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Software Containers
+source_code_url: https://github.com/containers/podman

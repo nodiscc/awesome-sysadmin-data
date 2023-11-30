@@ -1,0 +1,10 @@
+name: Prometheus
+website_url: https://prometheus.io/
+description: Service monitoring system and time series database.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Monitoring
+source_code_url: https://github.com/prometheus/prometheus

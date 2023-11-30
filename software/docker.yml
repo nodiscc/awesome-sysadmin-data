@@ -1,0 +1,10 @@
+name: Docker
+website_url: https://www.docker.com/
+description: Platform for developers and sysadmins to build, ship, and run distributed applications.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Software Containers
+source_code_url: https://www.docker.com/community/open-source/

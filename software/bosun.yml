@@ -1,0 +1,10 @@
+name: Bosun
+website_url: https://bosun.org/
+description: Monitoring and alerting system by Stack Exchange.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Monitoring
+source_code_url: https://github.com/bosun-monitor/bosun

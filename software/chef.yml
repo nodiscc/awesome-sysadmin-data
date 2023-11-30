@@ -1,0 +1,10 @@
+name: Chef
+website_url: https://www.chef.io/products/chef-infra
+description: Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes".
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Configuration Management
+source_code_url: https://github.com/chef/chef

@@ -1,0 +1,10 @@
+name: Atom Community
+website_url: https://github.com/atom-community/atom
+description: A fork of [atom](https://github.com/atom/atom) A hackable text editor from Github.
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+tags:
+  - Editors
+source_code_url: https://github.com/atom-community/atom

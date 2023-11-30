@@ -1,0 +1,10 @@
+name: Headscale
+website_url: https://github.com/juanfont/headscale
+description: Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+tags:
+  - VPN
+source_code_url: https://github.com/juanfont/headscale

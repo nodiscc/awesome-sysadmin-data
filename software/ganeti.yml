@@ -1,0 +1,11 @@
+name: Ganeti
+website_url: https://www.ganeti.org/
+description: Cluster virtual server management software tool built on top of KVM and Xen.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Python
+  - Haskell
+tags:
+  - Virtualization
+source_code_url: https://github.com/ganeti/ganeti

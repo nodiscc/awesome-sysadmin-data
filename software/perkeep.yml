@@ -1,0 +1,10 @@
+name: Perkeep
+website_url: https://perkeep.org/
+description: A set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data (previously Camlistore).
+licenses:
+  - Apache-2.0
+platforms:
+  - C
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/perkeep/perkeep

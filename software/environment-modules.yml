@@ -1,0 +1,10 @@
+name: Environment Modules
+website_url: https://cea-hpc.github.io/modules/
+description: Environment Modules provides for the dynamic modification of a user's environment via modulefiles.
+licenses:
+  - GPL-2.0
+platforms:
+  - Tcl
+tags:
+  - Build and software organization tools
+source_code_url: https://github.com/cea-hpc/modules

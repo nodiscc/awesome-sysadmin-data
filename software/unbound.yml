@@ -1,0 +1,10 @@
+name: Unbound
+website_url: https://nlnetlabs.nl/projects/unbound/about/
+description: Validating, recursive, and caching DNS resolver.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C
+tags:
+  - DNS - Servers
+source_code_url: https://github.com/NLnetLabs/unbound

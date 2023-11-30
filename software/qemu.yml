@@ -1,0 +1,10 @@
+name: QEMU
+website_url: https://www.qemu.org/
+description: QEMU is a generic machine emulator and virtualizer.
+licenses:
+  - LGPL-2.1
+platforms:
+  - C
+tags:
+  - Virtualization
+source_code_url: https://gitlab.com/qemu-project/qemu

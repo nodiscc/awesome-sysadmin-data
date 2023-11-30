@@ -1,0 +1,11 @@
+name: Geany
+website_url: https://www.geany.org/
+description: GTK2 text editor.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+  - C++
+tags:
+  - Editors
+source_code_url: https://github.com/geany/geany

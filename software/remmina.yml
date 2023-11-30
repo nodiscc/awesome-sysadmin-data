@@ -1,0 +1,10 @@
+name: Remmina
+website_url: https://www.remmina.org/
+description: Feature-rich remote desktop application for linux and other unixes.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Remote Desktop Clients
+source_code_url: https://gitlab.com/Remmina/Remmina

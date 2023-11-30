@@ -1,0 +1,10 @@
+name: Fusion Directory
+website_url: https://www.fusiondirectory.org
+description: Improve the Management of the services and the company directory based on OpenLDAP.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/fusiondirectory/fusiondirectory

@@ -1,0 +1,10 @@
+name: Brackets
+website_url: https://brackets.io/
+description: Code editor for web designers and front-end developers.
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+tags:
+  - Editors
+source_code_url: https://github.com/brackets-cont/brackets

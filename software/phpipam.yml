@@ -1,0 +1,10 @@
+name: phpIPAM
+website_url: https://phpipam.net/
+description: Open source IP address management with PowerDNS integration.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Network Configuration Management
+source_code_url: https://github.com/phpipam/phpipam

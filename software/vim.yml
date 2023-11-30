@@ -1,0 +1,10 @@
+name: Vim
+website_url: https://www.vim.org
+description: A highly configurable text editor built to enable efficient editing.
+licenses:
+  - Vim
+platforms:
+  - C
+tags:
+  - Editors
+source_code_url: https://github.com/vim/vim

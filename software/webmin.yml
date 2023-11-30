@@ -1,0 +1,10 @@
+name: Webmin
+website_url: https://www.webmin.com/
+description: Web-based interface for system administration for Unix.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Perl
+tags:
+  - Control Panels
+source_code_url: https://github.com/webmin/webmin

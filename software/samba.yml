@@ -1,0 +1,10 @@
+name: Samba
+website_url: https://www.samba.org/
+description: Active Directory and CIFS protocol implementation.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://download.samba.org/pub/samba/

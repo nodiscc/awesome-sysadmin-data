@@ -1,0 +1,10 @@
+name: NSQ
+website_url: https://nsq.io/
+description: A realtime distributed messaging platform.
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+tags:
+  - Queuing
+source_code_url: https://github.com/nsqio/nsq

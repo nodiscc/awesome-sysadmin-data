@@ -1,0 +1,10 @@
+name: SoftEther
+website_url: https://www.softether.org/
+description: Multi-protocol software VPN with advanced features.
+licenses:
+  - Apache-2.0
+platforms:
+  - C
+tags:
+  - VPN
+source_code_url: https://github.com/SoftEtherVPN/SoftEtherVPN/

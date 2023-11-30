@@ -1,0 +1,12 @@
+name: Virtualmin
+website_url: https://www.virtualmin.com/
+description: Powerful and flexible web hosting control panel for Linux and BSD systems.
+licenses:
+  - GPL-3.0
+platforms:
+  - Shell
+  - Perl
+  - Other
+tags:
+  - Control Panels
+source_code_url: https://github.com/virtualmin

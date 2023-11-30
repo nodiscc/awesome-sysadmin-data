@@ -1,0 +1,10 @@
+name: Mina
+website_url: http://nadarei.co/mina/
+description: Really fast deployer and server automation tool (rake based).
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/mina-deploy/mina

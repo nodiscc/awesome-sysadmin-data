@@ -1,0 +1,10 @@
+name: Cockpit
+website_url: https://cockpit-project.org/
+description: Web-based graphical interface for servers.
+licenses:
+  - LGPL-2.1
+platforms:
+  - C
+tags:
+  - Control Panels
+source_code_url: https://github.com/cockpit-project/cockpit

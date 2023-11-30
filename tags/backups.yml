@@ -1,0 +1,5 @@
+name: Backups
+description: '[Backup](https://en.wikipedia.org/wiki/Backup) software.'
+external_links:
+  - title: Restic's list of Linux backup software
+    url: https://github.com/restic/others

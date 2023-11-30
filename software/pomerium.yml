@@ -1,0 +1,11 @@
+name: Pomerium
+website_url: https://www.pomerium.io/
+description: An identity and context aware access-proxy inspired by BeyondCorp.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/pomerium/pomerium

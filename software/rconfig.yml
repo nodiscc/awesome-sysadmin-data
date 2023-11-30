@@ -1,0 +1,10 @@
+name: rConfig
+website_url: https://www.rconfig.com/
+description: Network device configuration management tool.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Network Configuration Management
+source_code_url: https://github.com/rconfig/rconfig

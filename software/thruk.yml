@@ -1,0 +1,10 @@
+name: Thruk
+website_url: https://www.thruk.org/
+description: Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
+licenses:
+  - GPL-1.0
+platforms:
+  - Perl
+tags:
+  - Monitoring
+source_code_url: https://github.com/sni/Thruk

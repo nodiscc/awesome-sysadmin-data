@@ -1,0 +1,13 @@
+name: Linux Dash
+website_url: https://github.com/afaqurk/linux-dash
+description: A low-overhead monitoring web dashboard for a GNU/Linux machine.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Go
+  - Python
+  - PHP
+tags:
+  - Monitoring
+source_code_url: https://github.com/afaqurk/linux-dash

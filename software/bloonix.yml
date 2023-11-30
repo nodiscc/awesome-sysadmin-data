@@ -1,0 +1,10 @@
+name: Bloonix
+website_url: https://bloonix-monitoring.org/
+description: Bloonix is a monitoring solution that helps businesses to ensure high availability and performance.
+licenses:
+  - GPL-3.0
+platforms:
+  - Perl
+tags:
+  - Monitoring
+source_code_url: https://github.com/bloonix

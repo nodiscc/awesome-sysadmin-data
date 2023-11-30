@@ -1,0 +1,10 @@
+name: OpenLDAP
+website_url: https://www.openldap.org/
+description: Open-source implementation of the Lightweight Directory Access Protocol (server, libraries and clients).
+licenses:
+  - OLDAP-2.8
+platforms:
+  - C
+tags:
+  - Identity Management - LDAP
+source_code_url: https://git.openldap.org/openldap/openldap

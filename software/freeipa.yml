@@ -1,0 +1,12 @@
+name: FreeIPA
+website_url: https://www.freeipa.org/
+description: Integrated security information management solution combining Linux (Fedora), 389 Directory Server, Kerberos, NTP, DNS, and Dogtag Certificate System (web interface and command-line administration tools).
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - C
+  - JavaScript
+tags:
+  - Identity Management - LDAP
+source_code_url: https://pagure.io/freeipa

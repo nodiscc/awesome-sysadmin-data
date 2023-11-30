@@ -1,0 +1,10 @@
+name: Lmod
+website_url: https://www.tacc.utexas.edu/research-development/tacc-projects/lmod
+description: Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
+licenses:
+  - MIT
+platforms:
+  - Lua
+tags:
+  - Build and software organization tools
+source_code_url: https://github.com/TACC/Lmod

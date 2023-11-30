@@ -1,0 +1,10 @@
+name: GNU Emacs
+website_url: https://www.gnu.org/software/emacs/
+description: An extensible, customizable text editor-and more.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Editors
+source_code_url: https://github.com/emacs-mirror/emacs

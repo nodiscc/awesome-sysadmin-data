@@ -1,0 +1,10 @@
+name: Varnish
+website_url: https://varnish-cache.org/
+description: Web application accelerator/caching HTTP reverse proxy.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - C
+tags:
+  - Web
+source_code_url: https://github.com/varnishcache/varnish-cache

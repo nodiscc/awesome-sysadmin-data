@@ -1,0 +1,11 @@
+name: Spack
+website_url: https://spack.io/
+description: A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+licenses:
+  - MIT
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Build and software organization tools
+source_code_url: https://github.com/spack/spack

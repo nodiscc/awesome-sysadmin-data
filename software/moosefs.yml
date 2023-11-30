@@ -1,0 +1,10 @@
+name: MooseFS
+website_url: https://moosefs.com/
+description: Fault tolerant, network distributed file system.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Distributed Filesystems
+source_code_url: https://github.com/moosefs/moosefs

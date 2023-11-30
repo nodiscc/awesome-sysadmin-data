@@ -1,0 +1,10 @@
+name: Oxidized
+website_url: https://github.com/ytti/oxidized
+description: Network device configuration backup tool.
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Network Configuration Management
+source_code_url: https://github.com/ytti/oxidized

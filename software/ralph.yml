@@ -1,0 +1,12 @@
+name: Ralph
+website_url: https://ralph.allegro.tech/
+description: Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - IT Asset Management
+source_code_url: https://github.com/allegro/ralph
+demo_url: https://github.com/allegro/ralph#live-demo

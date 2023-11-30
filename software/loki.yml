@@ -1,0 +1,10 @@
+name: Loki
+website_url: https://grafana.com/oss/loki/
+description: Log aggregation system designed to store and query logs from all your applications and infrastructure.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Log Management
+source_code_url: https://github.com/grafana/loki

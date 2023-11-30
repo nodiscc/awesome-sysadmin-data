@@ -1,0 +1,10 @@
+name: Gearman
+website_url: http://gearman.org/
+description: Fast multi-language queuing/job processing platform.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C++
+tags:
+  - Queuing
+source_code_url: https://github.com/gearman/gearmand

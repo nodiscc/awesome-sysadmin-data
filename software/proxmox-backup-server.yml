@@ -1,0 +1,10 @@
+name: Proxmox Backup Server
+website_url: https://www.proxmox.com/en/proxmox-backup-server
+description: Proxmox Backup Server is an enterprise-class, client-server backup solution thatis capable of backing up virtual machines, containers, and physical hosts.
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+tags:
+  - Backups
+source_code_url: https://git.proxmox.com/?p=proxmox-backup.git;a=tree

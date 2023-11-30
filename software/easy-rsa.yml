@@ -1,0 +1,10 @@
+name: easy-rsa
+website_url: https://github.com/OpenVPN/easy-rsa
+description: Bash script to build and manage a PKI CA.
+licenses:
+  - GPL-2.0
+platforms:
+  - Shell
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/OpenVPN/easy-rsa

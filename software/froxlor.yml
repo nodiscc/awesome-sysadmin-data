@@ -1,0 +1,10 @@
+name: Froxlor
+website_url: https://froxlor.org/
+description: Lightweight server management software with Nginx and PHP-FPM support.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Control Panels
+source_code_url: https://github.com/Froxlor/Froxlor/

@@ -1,0 +1,10 @@
+name: Eggdrop
+website_url: https://www.eggheads.org/
+description: The oldest Internet Relay Chat (IRC) bot still in active development.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - ChatOps
+source_code_url: https://github.com/eggheads/eggdrop

@@ -1,0 +1,10 @@
+name: oVirt
+website_url: https://www.ovirt.org/
+description: Manages virtual machines, storage and virtual networks.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Virtualization
+source_code_url: https://github.com/oVirt

@@ -1,0 +1,10 @@
+name: PHP Censor
+website_url: https://github.com/php-censor/php-censor
+description: Open source self-hosted continuous integration server for PHP projects.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - PHP
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/php-censor/php-censor

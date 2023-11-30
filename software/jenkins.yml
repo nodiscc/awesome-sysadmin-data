@@ -1,0 +1,10 @@
+name: Jenkins
+website_url: https://jenkins-ci.org/
+description: Continuous Integration Server.
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/jenkinsci/jenkins/

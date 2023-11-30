@@ -1,0 +1,10 @@
+name: NSD
+website_url: https://www.nlnetlabs.nl/projects/nsd/about/
+description: Authoritative DNS name server developed speed, reliability, stability and security.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C
+tags:
+  - DNS - Servers
+source_code_url: https://github.com/NLnetLabs/nsd

@@ -1,0 +1,10 @@
+name: Lustre
+website_url: https://www.lustre.org/
+description: Parallel distributed file system, generally used for large-scale cluster computing.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Distributed Filesystems
+source_code_url: https://git.whamcloud.com/?p=fs/lustre-release.git;a=summary

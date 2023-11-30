@@ -1,0 +1,13 @@
+name: NetXMS
+website_url: https://www.netxms.org/
+description: Open Source network and infrastructure monitoring and management.
+licenses:
+  - LGPL-3.0
+  - GPL-3.0
+platforms:
+  - Java
+  - C++
+  - C
+tags:
+  - Monitoring
+source_code_url: https://github.com/netxms/netxms

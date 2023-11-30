@@ -1,0 +1,10 @@
+name: Hubot
+website_url: https://hubot.github.com/
+description: A customizable, life embetterment robot.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - ChatOps
+source_code_url: https://github.com/hubotio/hubot
