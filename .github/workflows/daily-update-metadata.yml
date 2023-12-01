@@ -1,0 +1,34 @@
+name: update metadata
+
+on:
+  schedule:
+    - cron: '22 22 * * *'
+  workflow_dispatch:
+
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+concurrency:
+  group: update-metadata-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-metadata:
+    if: github.repository == 'awesome-foss/awesome-sysadmin-data'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: make install
+      - run: make update_metadata
+      - name: commit and push changes
+        run: |
+          git config user.name awesome-selfhosted-bot
+          git config user.email github-actions@github.com
+          git add software/ tags/ platforms/ licenses*.yml
+          git diff-index --quiet HEAD || git commit -m "[bot] update projects metadata"
+          git push
+  build:
+    if: github.repository == 'awesome-foss/awesome-sysadmin-data'
+    needs: update-metadata
+    uses: ./.github/workflows/build.yml
+    secrets: inherit

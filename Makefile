@@ -11,40 +11,45 @@ install:
 	pip3 install --force git+https://github.com/nodiscc/hecat.git@master
 
 .PHONY: import # import data from original list at https://github.com/awesome-foss/awesome-sysadmin
-import: install
-	rm -rf awesome-sysadmin && git clone --depth=1 https://github.com/awesome-foss/awesome-sysadmin
+import: clean install
+	git clone --depth=1 https://github.com/awesome-foss/awesome-sysadmin
+	cp awesome-selfhosted/AUTHORS AUTHORS
 	rm -rf tags/ software/ platforms/
 	mkdir -p tags/ software/ platforms/
 	source .venv/bin/activate && \
 	hecat --config .hecat/import.yml
 
 .PHONY: update_metadata # update metadata from project repositories/API
-update_metadata: install
+update_metadata:
 	source .venv/bin/activate && \
 	hecat --config .hecat/update-metadata.yml
 
 .PHONY: awesome_lint # check data against awesome-sysadmin guidelines
-awesome_lint: install
+awesome_lint:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint.yml
 
-.PHONY: export_markdown # render markdown export from YAML data
-export_markdown: install
-	rm -rf awesome-sysadmin && git clone https://github.com/awesome-foss/awesome-sysadmin
+.PHONY: awesome_lint # check data against awesome-sysadmin guidelines (strict)
+awesome_lint_strict:
 	source .venv/bin/activate && \
-	hecat --config .hecat/export-markdown.yml
+	hecat --config .hecat/awesome-lint-strict.yml
+
+.PHONY: export_markdown # render markdown export from YAML data
+export_markdown:
+	rm -rf awesome-sysadmin/
+	git clone https://github.com/awesome-foss/awesome-sysadmin
+	source .venv/bin/activate && hecat --config .hecat/export-markdown.yml
 	cd awesome-sysadmin && git diff --color=always
 
-.PHONY: export_html # render HTML export from YAML data (https://awesome-sysadmin.net/)
+.PHONY: export_html # render HTML export from YAML data (https://sysadmin.awesome-selfhosted.net/)
 export_html:
 	rm -rf awesome-sysadmin-html/ html/
-	#git clone https://github.com/$(HTML_REPOSITORY)
-	mkdir awesome-sysadmin-html
+	git clone https://github.com/$(HTML_REPOSITORY)
 	mkdir html && source .venv/bin/activate && hecat --config .hecat/export-html.yml
-	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> and <a href="https://github.com/pradyunsg/furo">furo</a>. Content under <a href="https://github.com/awesome-sysadmin/awesome-sysadmin/blob/master/LICENSE">CC-BY-SA 3.0</a> license. <a href="https://github.com/awesome-foss/awesome-sysadmin-html">Source code</a>, <a href="https://github.com/awesome-sysadmin/awesome-sysadmin">raw data</a>.|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
+	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> and <a href="https://github.com/pradyunsg/furo">furo</a>. Content under <a href="https://github.com/awesome-sysadmin/awesome-sysadmin/blob/master/LICENSE">CC-BY-SA 3.0</a> license. <a href="https://github.com/awesome-foss/awesome-sysadmin-html">Source code</a>, <a href="https://github.com/awesome-sysadmin/awesome-sysadmin-data">raw data</a>.|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
 	source .venv/bin/activate && sphinx-build -b html -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees awesome-sysadmin-html/*
-	echo "# please do not scrape this site aggressively. Source code is available at https://github.com/awesome-foss/awesome-sysadmin-html. Raw data is available at https://github.com/awesome-sysadmin/awesome-sysadmin" >| html/html/robots.txt
+	echo "# please do not scrape this site aggressively. Source code is available at https://github.com/awesome-foss/awesome-sysadmin-html. Raw data is available at https://github.com/awesome-sysadmin/awesome-sysadmin-data" >| html/html/robots.txt
 
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:
@@ -53,6 +58,15 @@ push_markdown:
 	cd awesome-sysadmin && git config user.name awesome-sysadmin-bot && git config user.email github-actions@github.com
 	cd awesome-sysadmin && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] build markdown from awesome-sysadmin $(COMMIT_HASH)")
 	cd awesome-sysadmin && git push -f
+
+.PHONY: push_html # commit and push changes to the HTML site repository (amend previous commit and force-push)
+push_html:
+	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
+	mv html/html/* awesome-sysadmin-html/
+	cd awesome-sysadmin-html/ && git remote set-url origin git@github.com:$(HTML_REPOSITORY)
+	cd awesome-sysadmin-html/ && git config user.name awesome-sysadmin-bot && git config user.email github-actions@github.com
+	cd awesome-sysadmin-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] build HTML from awesome-sysadmin-data $(COMMIT_HASH)")
+	cd awesome-sysadmin-html/ && git push -f
 
 .PHONY: url_check # check URLs for dead links or other connection problems
 url_check:
@@ -64,18 +78,7 @@ authors:
 	printf "Commits|Author\n-------|---------------------------------------------------\n" > AUTHORS
 	git shortlog -sne | grep -v awesome-sysadmin-bot >> AUTHORS
 
-
-.PHONY: push_html # commit and push changes to the HTML site repository (amend previous commit and force-push)
-push_html:
-	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
-	mv html/html/* awesome-sysadmin-html/
-	cd awesome-sysadmin-html/ && git remote set-url origin git@github.com:$(HTML_REPOSITORY)
-	cd awesome-sysadmin-html/ && git config user.name awesome-sysadmin-bot && git config user.email github-actions@github.com
-	cd awesome-sysadmin-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] build HTML from awesome-sysadmin $(COMMIT_HASH)")
-	cd awesome-sysadmin-html/ && git push -f
-
-
-.PHONY: clean # clean temporary files
+.PHONY: clean # clean files generated by automated tasks
 clean:
 	rm -rf awesome-sysadmin/ awesome-sysadmin-html/ html/ .venv/
 
