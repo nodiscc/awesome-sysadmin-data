@@ -1,0 +1,22 @@
+name: unmaintained projects
+
+on:
+  schedule:
+    - cron: '22 22 * * *'
+  workflow_dispatch:
+
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+concurrency:
+  group: unmaintained-projects-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-unmaintained-projects:
+    if: github.repository == 'awesome-foss/awesome-sysadmin-data'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: make install
+      - run: make awesome_lint_strict

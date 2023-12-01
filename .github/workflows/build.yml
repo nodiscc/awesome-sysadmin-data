@@ -1,0 +1,60 @@
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+  workflow_call:
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+# This job requires deploy keys to be added to target repositories (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys)
+# Generate deploy keys locally:
+# $ ssh-keygen -t rsa -f awesome-sysadmin-deploy-key -C awesome-sysadmin-deploy-key
+# $ ssh-keygen -t rsa -f awesome-sysadmin-html-deploy-key -C awesome-sysadmin-html-deploy-key
+# Paste the contents of awesome-sysadmin-deploy-key.pub to sysadminhttps://github.com/awesome-foss/awesome-sysadmin/settings/keys/new, name: awesome-sysadmin-deploy-key, allow write access
+# Paste the contents of awesome-sysadmin-html-deploy-key.pub to sysadminhttps://github.com/awesome-foss/awesome-sysadmin-html/settings/keys/new, name: awesome-sysadmin-html-deploy-key, allow write access
+# Access sysadminhttps://github.com/awesome-foss/awesome-sysadmin-data/settings/environments, create new environment with name: production
+#   - deployment branches: selected branches
+#   - add deployment branch rule: branch name pattern: master
+#   - environment secrets: add secret with name: SSH_MARKDOWN_DEPLOY_KEY, and value: paste the contents of awesome-sysadmin-deploy-key
+#   - environment secrets: add secret with name: SSH_HTML_DEPLOY_KEY, and value: paste the contents of awesome-sysadmin-html-deploy-key
+
+jobs:
+  build-markdown:
+    environment:
+      name: production
+      url: sysadminhttps://github.com/awesome-foss/awesome-sysadmin
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+      - run: make install
+      - run: make awesome_lint
+      - run: make export_markdown
+      - name: setup markdown repository SSH deploy key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_MARKDOWN_DEPLOY_KEY }}" > ~/.ssh/id_rsa
+          chmod 0600 ~/.ssh/id_rsa
+      - run: make push_markdown
+
+  build-html:
+    environment:
+      name: production
+      url: sysadminhttps://github.com/awesome-foss/awesome-sysadmin-html
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+      - run: make install
+      - run: make awesome_lint
+      - run: make export_html
+      - name: setup HTML repository SSH deploy key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_HTML_DEPLOY_KEY }}" > ~/.ssh/id_rsa
+          chmod 0600 ~/.ssh/id_rsa
+      - run: make push_html
